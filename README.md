@@ -8,10 +8,10 @@ Me gusta los videojuegos, los deportes extremos, la música, soy montañista y f
 
 Soy un novato en la programación, sin embargo tengo mis ambiciones de querer saber desarrollar y crear grandes proyectos.
 
-A futuro quiero programar como todo un experto y darle la pasión a mis desarrollos, crear programas de broma, para ayudar y para inovar. Me queda un largo camino para llegar a ese punto, pero con dedicación y progreso lo lograré.
+En algún futuro quiero programar como todo un experto y darle la pasión a mis desarrollos, crear programas de broma, para ayudar y para inhovar. Me queda un largo camino para llegar a ese punto, pero con dedicación y progreso lo lograré.
 
 ```php
-#include <life.h>
+include <life.h>
 
     //algorithm of success
     while(noSuccess)
